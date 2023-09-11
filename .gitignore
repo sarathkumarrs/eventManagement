@@ -32,4 +32,4 @@ venv/
 credentials.py
 .vscode
 .git_credentials
-settings.py
+
